@@ -83,3 +83,11 @@ table{
     background: #3B5998;
     color: white;
   }
+  .footer{
+      position:absolute;
+      white-space: nowrap;
+      margin-bottom: 1px;
+      margin-left: 75%;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 0.5em;
+  }
