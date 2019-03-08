@@ -1,0 +1,85 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.25em;
+    text-align:center;
+    background:rgb(10%, 70%, 20%, 80%);
+    padding-bottom:10px;
+    }
+
+img.poster{
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    display:block;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+    display:block;
+}
+.title{
+    color:rgb(10%, 30%, 60%);
+}
+.schedule{
+    background: rgb(50%, 80%, 0%);
+    padding: 10px 10px 20px 10px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    display:flex;
+   
+}
+.where {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.time {
+    border-left-width: 0.5;
+    padding-left: 5px;
+}
+
+table{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 1.25em;
+
+}
+.contact{
+
+    margin-bottom:0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 5px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
